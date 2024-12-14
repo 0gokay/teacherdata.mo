@@ -1,6 +1,11 @@
 # teacherdata.mo
 # Teacher Data Management Platform
 
+## Grup Üyeleri:
+Gökay KÖMÜRCÜ
+İlyada Uyandı
+Mahshad Ramezanabady
+
 ## Proje Detayları
 
 Bu proje, öğretmenlerin bilgilerinin merkeziyetsiz bir sistemde tutulmasını sağlayan bir veri yönetim platformu sunmaktadır. Proje, öğretmenlere ait ad, yaş, branş, cinsiyet, dil bilgisi, deneyim yılları ve başarılar gibi bilgilerin güvenli bir şekilde saklanmasını ve yönetilmesini sağlar. Ayrıca, öğretmenlerin emeklilik durumları gibi bilgilerin güncellenmesi ve düzenlenmesi desteklenir. Sistem, öğretmen bilgilerini bir blockchain altyapısında tutarak veri bütünlüğünü ve güvenliğini garanti altına alır. Geliştirilen fonksiyonlar, öğretmen ekleme, güncelleme, silme ve emekliye ayırma gibi işlemleri destekler.
